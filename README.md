@@ -70,3 +70,4 @@ Analyze branch-level performance in terms of both sales and volume.
 🛠 Tools Used
 
 Excel: Pivot Tables, Column Charts, Donut Charts, Area Charts, Treemaps.
+See all Details from this linke https://alexuuni-my.sharepoint.com/:x:/g/personal/cds_asmaashaban250472_alexu_edu_eg/EToKFYtrAHNAoEHoqHeABsgB44SIBHAPlQiIK8pe_GUaSg?e=lT66ed
